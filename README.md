@@ -39,7 +39,4 @@ Ao jogar 10 combinações de 6 números, as chances aumentam ainda mais, reduzin
 ---
 
 ## Instalação
-1. **Clone o Repositório**:
-   ```bash
-   git clone https://github.com/seuusuario/mega-da-sorte.git
-   cd mega-da-sorte
+1. **Download**: Baixe o APK mais recente diretamente [neste link](https://github.com/Confederaction/mega_da_sorte/releases/download/Mega_da_Sorte/Mega_da_Sorte.apk).
